@@ -34,7 +34,7 @@ global.sig = 'https://instagram.com/jackliarianto?igshid=YmMyMTA2M2Y'
 global.sgh = 'https://github.com/'
 global.sgc = 'https://chat.whatsapp.com/BFFKYGNsvrk9iOLyjrkIib'
 global.sdc = 'https://discord.'
-global.snh = 'https://vt.tiktok.com/ZSd5Sc1Jc/'
+global.snh = 'tiktok.com/@jkarnto'
 
 /*============== PAYMENT ==============*/
 global.pdana = '089635824316'
@@ -47,8 +47,8 @@ global.psaweria = 'https://saweria.com/'
 /*============== NOMOR ==============*/
 global.nomorbot = '6283816332980'
 global.nomorown = '6289635824316'
-global.namebot = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃 '
-global.nameown = '𝐍𝐞𝐥𝐬𝐨𝐧'
+global.namebot = 'JackBot-𝐌𝐃 '
+global.nameown = 'Jackli'
 
 
 /*============== STAFF ==============*/
