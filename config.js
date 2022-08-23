@@ -30,33 +30,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/nelson_randanan'
+global.sig = 'https://instagram.com/jackliarianto?igshid=YmMyMTA2M2Y'
 global.sgh = 'https://github.com/'
 global.sgc = 'https://chat.whatsapp.com/BFFKYGNsvrk9iOLyjrkIib'
 global.sdc = 'https://discord.'
 global.snh = 'https://vt.tiktok.com/ZSd5Sc1Jc/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081241100804'
-global.povo = '081241100804'
-global.pgopay = '081241100804'
-global.ppulsa = '081241100804'
-global.ppulsa2 = '081241100804'
+global.pdana = '089635824316'
+global.povo = '089635824316'
+global.pgopay = '089635824316'
+global.ppulsa = '089635824316'
+global.ppulsa2 = '089635824316'
 global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281241100804'
-global.nomorown = '6281241100804'
+global.nomorbot = '6283816332980'
+global.nomorown = '6289635824316'
 global.namebot = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃 '
 global.nameown = '𝐍𝐞𝐥𝐬𝐨𝐧'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281241100804'],
-  ['6281241100804'],
-  ['6281241100804'],
-  ['6281241100804', '𝐍𝐞𝐥𝐬𝐨𝐧', true]
+  ['6289635824316'],
+  ['6289635824316'],
+  ['6289635824316'],
+  ['6289635824316', 'Jackli', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -101,14 +101,14 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃 あ⁩ 」' //Main Watermark
+global.wm = '                「 JackBot-𝐌𝐃 あ⁩ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃'
+global.wm3 = 'JackBot-𝐌𝐃'
 global.botdate = ` 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.packname = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃'
-global.author = 'By Nelson'
+global.packname = 'JackBot-𝐌𝐃'
+global.author = 'By Jackli'
 
 
 /*============== LOGO ==============*/
