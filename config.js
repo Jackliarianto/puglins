@@ -102,7 +102,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 JackBot-𝐌𝐃 あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘JackBot-𝐌𝐃˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'JackBot-𝐌𝐃'
 global.botdate = ` 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
